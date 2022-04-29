@@ -130,3 +130,9 @@ dmypy.json
 
 # IDE
 .vscode
+
+#project
+opinions/*.*
+
+#pomoc naukowa
+aktywacja.txt
